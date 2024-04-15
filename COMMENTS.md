@@ -39,7 +39,7 @@ Ao interagir com a Aurora é possivel gerar insights para entender os temas mais
 
 ## Arquitetura
 
-A decisão da arquitetura foi tomada após considerar diversos fatores, incluindo a escalabilidade, a manutenibilidade e a performance do sistema. Vale ressaltar que é possivel usar os serviços de armazenamento do Azure para diminuir a complexidade da quantidade de ferramentas, dessa forma podemos utilizar o CosmoDB como alternativa para salvar o historico de conversa (MongoDB Cloud) e os vetores (Pinecone). Além disso, é possivel utilizar serviços de serverless do Azure como alternativa para o AWS Lambda Functions.
+A decisão da arquitetura foi tomada após considerar diversos fatores, incluindo a escalabilidade, a manutenibilidade e a performance do sistema. Vale ressaltar que é possivel usar os serviços de armazenamento do Azure para diminuir a complexidade da quantidade de ferramentas, dessa forma podemos utilizar o CosmoDB como alternativa para salvar o historico de conversa (MongoDB Cloud) e os vetores para contexto da conversa (Pinecone). Além disso, é possivel utilizar serviços de serverless do Azure como alternativa para o AWS Lambda Functions.
 
 ![Arquitetura](imgs/flowchart/flowchart.svg)
 
@@ -79,9 +79,17 @@ Pinecone armazena as informações utilizadas para o contexto dos prompts. Os da
 
 ![Pinecone](imgs/pinecone_db.png)
 
-### Service 6 - Back-end
+### Service 6 - Back-end | codigo: `embedding/main.py`
 Esse serviço é reponsavel pela logica de criação dos embeddings utilizando o text-embedding-ada-002 para criar os vetores. 
 Para cada tipo de arquivo existe uma forma unica de ser vetorizada, variando de tamanho de chunk e utilização de sumarização.
+Formas utilizadas para indexar os arquivos `embedding/resources/extractions/material_aula_1`:
+
+- Arquivo txt: Usei o TextLoader do LangChain em conjunto com o GPT-3.5 para extrair as informações mais pertinentes sobre o tema abordado no texto. O retorno é segmentado em parágrafos, os quais são vetorizados individualmente e indexados para viabilizar consultas posteriores.
+- Arquivo pdf: Utilizei o PyPDFLoader do LangChain para extrair as informações de duas em duas páginas, a fim de manter o contexto. Posteriormente, apliquei o GPT-3.5 para eliminar dados irrelevantes que poderiam comprometer o desempenho do resultado. O retorno é fragmentado em parágrafos, vetorizados de forma independente e indexados para facilitar consultas.
+- Arquivo imagem: Utilizei GPT-4 multimodal para identificar os elementos presentes na imagem, e em seguida utilizei o GPT-3.5 para reter apenas as informações mais relevantes. Essas informações foram vetorizadas e indexadas para possibilitar consultas futuras.
+- Arquivo video: Usei o serviço de transcrição de áudio e vídeo da AWS (https://aws.amazon.com/pt/transcribe/) e o GPT-3.5 para extrair somente as informações mais relevantes. Essas informações foram vetorizadas e indexadas para consulta.
+- Arquivo json: Realizei a extração de perguntas e respostas e usei o GPT-3.5 para organizá-las e indexá-las em vetores separados.
+
 Inicialmente, executei o serviço em minha máquina local, mas é viável utilizar qualquer serviço de computação em nuvem para executá-lo.
 
 
