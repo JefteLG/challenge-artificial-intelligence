@@ -1,0 +1,204 @@
+No texto fornecido, é abordado o desenvolvimento de sistemas PHP e a criação de páginas web com HTML5. O objetivo principal é apresentar os aprendizados relacionados a esse assunto, que incluem a definição da estrutura de uma página web com HTML5, a aplicação de formatação de texto e o desenvolvimento de listas e tabelas.
+
+Os sistemas desenvolvidos para a plataforma web utilizam a linguagem HTML para exibir o conteúdo das páginas. Com o HTML5, é possível criar páginas web com recursos avançados, como marcações que permitem o uso de semântica e acessibilidade. Isso facilita a pesquisa por motores de busca automática e torna as páginas acessíveis para pessoas com deficiências visuais e auditivas, entre outros.
+
+No capítulo em questão, é estudada a estrutura de páginas web, a formatação de texto em documentos hipertexto e a apresentação de links, listas e tabelas em HTML5. O HTML, ou linguagem de marcação de hipertexto, é utilizado para criar documentos para a web, que podem conter marcações para visualizar e acessar conteúdos como textos, imagens, áudios e vídeos.
+
+A versão 5 do HTML, conhecida como HTML5, foi publicada em 2014 pelo World Wide Web Consortium (W3C), uma comunidade internacional que reúne diversos participantes colaborando para o desenvolvimento de padrões web. Essa versão trouxe diversas melhorias e recursos para a criação de páginas web, permitindo uma experiência mais rica e interativa para os usuários.
+
+Portanto, o estudo do desenvolvimento de sistemas PHP e da criação de páginas web com HTML5 é fundamental para quem deseja criar sites modernos e funcionais, com recursos avançados de semântica, acessibilidade e interatividade. A compreensão da estrutura de uma página web, da formatação de texto e do uso de listas e tabelas em HTML5 são conhecimentos essenciais para o desenvolvimento de páginas web de qualidade.
+
+A criação de páginas web utilizando HTML5 é um processo fundamental para o desenvolvimento de sistemas na plataforma web. Com o HTML5, é possível criar páginas com recursos avançados, permitindo a apresentação de dados de forma mais semântica e acessível. Isso facilita a pesquisa por motores de busca automática, além de tornar a página mais acessível para pessoas com deficiências visuais e auditivas.
+
+A estrutura de uma página web com HTML5 é definida através da linguagem de marcação de hipertexto. Essa linguagem permite a criação de documentos para a web, que podem conter marcações para visualizar e acessar conteúdos como textos, imagens, áudios e vídeos. A versão 5 do HTML, conhecida como HTML5, foi publicada em 2014 pelo World Wide Web Consortium (W3C), uma comunidade internacional que desenvolve padrões para a web.
+
+Para visualizar uma página HTML, é necessário utilizar um navegador web, como Chrome, Internet Explorer, Firefox, Safari, Opera, Edge, entre outros. No entanto, é importante ter cuidado com as marcações utilizadas, pois diferentes versões dos navegadores podem interpretar as marcações de forma diferente, resultando em uma exibição incorreta da página.
+
+As marcações em uma página HTML não se limitam apenas à apresentação visual do conteúdo. Elas também desempenham um papel importante na identificação dos elementos da página, como títulos, cabeçalhos, rodapés, idioma e áreas específicas. Além disso, as informações na web não são acessadas apenas por pessoas, mas também por motores de busca automática e dispositivos para deficientes visuais e auditivos.
+
+Com base nisso, o HTML5 incluiu elementos semânticos que permitem a leitura e interpretação da estrutura de uma página web de forma organizada e segura. Esses elementos dão significado aos objetos da página, tornando-a mais compreensível tanto para humanos quanto para máquinas.
+
+Portanto, ao criar páginas web com HTML5, é importante considerar a estrutura da página, a formatação de texto, a criação de links, listas e tabelas, além de utilizar os elementos semânticos disponíveis para garantir uma experiência de navegação eficiente e acessível para todos os usuários.
+
+O World Wide Web Consortium (W3C) é uma organização responsável por desenvolver e manter os padrões da web, como as especificações HTML, XML, CSS, entre outros. Para saber mais sobre o W3C e as especificações mantidas pela comunidade, é possível acessar o endereço fornecido pelo consórcio.
+
+A exibição de uma página HTML é feita por meio de um navegador web, também conhecido como navegador ou browser. Existem diversos navegadores disponíveis no mercado, como Chrome, Internet Explorer, Firefox, Safari, Opera, Edge, entre outros. No entanto, é importante ter cuidado com as marcações inseridas nas páginas, pois devido às diferentes versões dos navegadores, alguns conteúdos podem não ser exibidos corretamente se o navegador do usuário estiver desatualizado.
+
+As marcações de uma página HTML vão além da apresentação visual do conteúdo. Ao acessar um conteúdo web, é possível identificar visualmente os elementos, como títulos em letras maiores, dados de cabeçalho e rodapé, idioma, áreas da página, entre outros. No entanto, o conteúdo na web não é acessado apenas por pessoas, mas também por motores de busca automática, dispositivos para deficientes visuais e auditivos, equipamentos portáteis com diferentes tamanhos de tela, entre outros.
+
+Com base nisso, o HTML5 incluiu elementos que permitem a leitura e interpretação da estrutura de uma página web de forma organizada e segura. Essa organização é definida por elementos semânticos, que atribuem significado aos objetos de uma página.
+
+A estrutura básica de uma página HTML5 é composta por marcações inseridas no documento dentro de tags específicas. A instrução DOCTYPE, presente na linha 1, indica ao navegador a versão do documento HTML. Na versão 5 do HTML, basta informar "<!DOCTYPE html>" para que os navegadores interpretem o documento como uma página HTML5.
+
+A tag "<html>", presente na linha 2, representa a marcação de nível mais elevado de uma página HTML. Essa tag envolve outras tags que fazem parte da estrutura básica de um documento HTML, como "<head>" e "<body>". É importante fechar essas tags com suas respectivas tags de encerramento, como ilustrado nas linhas 6, 8 e 9.
+
+O conteúdo pertencente à tag "<head>", entre as linhas 3 e 6, contém informações interpretadas pelo navegador, como o título, a codificação do idioma e a inclusão de arquivos CSS.
+
+Essas são algumas das informações relevantes sobre a criação de páginas web com HTML5 e a estrutura básica de uma página HTML5.
+
+Uma página HTML5 é composta por marcações, que são inseridas no documento dentro de tags ou elementos específicos. Essas tags seguem uma estrutura hierárquica bem definida. A estrutura básica de uma página HTML5 é composta por vários elementos.
+
+O primeiro elemento é o DOCTYPE, que é um comando especial que indica ao navegador a versão do documento HTML. Nas versões anteriores ao HTML5, era necessário informar o número da versão, mas na versão 5 basta informar "<!DOCTYPE html>" para que os navegadores interpretem como uma página HTML5.
+
+O elemento <html> é a marcação de nível mais elevado de uma página HTML. Ele envolve outras tags que pertencem à estrutura básica do documento, como <head> e <body>. Essas tags devem ser "fechadas" com suas respectivas tags de encerramento.
+
+A tag <head> contém informações interpretadas pelo navegador, como o título da página (<title>), a codificação do idioma (<meta>) e a inclusão de arquivos CSS (<link>).
+
+A tag <title> serve para indicar o título da página, que será exibido na barra de título ou na aba do navegador. Já a tag <meta> serve para configurar o idioma de apresentação de caracteres da página. No exemplo dado, a configuração "charset= 'utf-8'" indica que o navegador deve exibir os caracteres do idioma português, como cedilha e acentos.
+
+A tag <body> engloba o corpo do documento HTML, ou seja, é dentro dessa tag que todo o conteúdo da página deve ser inserido. No HTML5, a tag <body> ganhou seis novas tags para organizar e permitir pesquisas semânticas mais eficientes por sistemas de busca automatizados: <section>, <header>, <aside>, <nav>, <article> e <footer>.
+
+Esses elementos são essenciais para a estrutura de uma página HTML5. É importante seguir essa estrutura para garantir a correta interpretação e exibição da página pelos navegadores. Além disso, é válido ressaltar que a linguagem HTML não é case sensitive, ou seja, não faz diferença escrever as tags em maiúsculo ou minúsculo, desde que os comandos estejam corretos.
+
+A tag <title>, mencionada na linha 4 do texto, é utilizada para indicar o título da página que será exibido na barra de título ou na aba do navegador. Já a tag <meta>, indicada na linha 5, serve para configurar o idioma de apresentação de caracteres da página, sendo que charset="utf-8" indica que o navegador deve exibir os caracteres do idioma português, como cedilha e acentos.
+
+É importante ressaltar que a linguagem HTML não é case sensitive, ou seja, não faz diferença escrever as tags em maiúsculo ou minúsculo, desde que os comandos estejam corretos. No entanto, alguns comandos são escritos de determinada forma por padrão de escrita. Além disso, tanto faz identificar as instruções com aspas simples ou duplas, uma vez que os navegadores estão preparados para interpretar os dois modos.
+
+A tag <body> engloba o corpo do documento HTML, ou seja, é dentro dessa tag que todo o conteúdo da página que será exibido pelo navegador deve ser inserido. No HTML5, a tag <body> ganhou seis novas tags, incluídas para organizar e permitir pesquisas semânticas mais eficientes por sistemas de busca automatizados: <section>, <header>, <aside>, <nav>, <article> e <footer>.
+
+O elemento <section> define uma seção ou área da página, substituindo grande parte das tags <div> e <span> que eram usadas de maneira genérica para a mesma finalidade no HTML4 ou anterior. Uma página HTML5 pode conter várias seções, que representam as mais diversas áreas de um site.
+
+A tag <article> representa um bloco que contém o conteúdo principal do site, como texto, redação e demais informações. Já as tags <header> e <footer> representam os cabeçalhos e rodapés, respectivamente. Essas tags podem pertencer a mais de uma área, como seções ou a própria página principal. Os cabeçalhos armazenam informações que se localizam no topo da página ou das seções, enquanto os rodapés contêm dados que se encontram no final da página ou das seções.
+
+Outras duas tags introduzidas no HTML5 são <nav> e <aside>. A tag <nav> delimita uma área de links, especificando atalhos para o próprio documento ou para outras páginas. Já a tag <aside> indica uma área que não pertence ao fluxo principal, como um anúncio, por exemplo.
+
+A especificação HTML5 disponibiliza uma série de elementos para formatar textos e criar links e âncoras em páginas web. Para realizar isso, é necessário utilizar tags específicas que permitem formatar os elementos de forma padrão, visando equilibrar o código com a semântica do HTML5.
+
+O HTML5 introduziu novos elementos que permitem uma melhor estruturação e organização do conteúdo de uma página web. O elemento <section> substitui as tags <div> e <span> que eram usadas de forma genérica no HTML4. Agora, é possível definir várias seções em uma página, representando diferentes áreas do site.
+
+O conteúdo principal de uma página HTML5 deve estar dentro da tag <article>. Essa tag representa um bloco que contém o conteúdo principal do site, como texto e informações relevantes. Além disso, as tags <header> e <footer> são utilizadas para representar os cabeçalhos e rodapés, respectivamente. Elas podem pertencer a mais de uma área, como seções ou a própria página principal.
+
+Para delimitar uma área de links, utiliza-se o elemento <nav>, que especifica atalhos para o próprio documento ou para outras páginas. Já a tag <aside> indica uma área que não faz parte do fluxo principal, como um anúncio.
+
+A formatação de texto em uma página web com HTML5 é realizada através de tags específicas. O elemento <p> é utilizado para marcar um parágrafo no texto, inserindo automaticamente uma quebra de linha ao final. Sem essa marcação, o texto seria escrito em sequência, mesmo com quebras de linha no código-fonte.
+
+A tag <br> cria uma quebra de linha no texto, forçando a continuação na próxima linha. Já o elemento <pre> define que o texto será apresentado no navegador exatamente como está no código-fonte, respeitando espaços em branco e quebras de linha.
+
+Com o HTML5, é possível criar páginas web mais estruturadas e formatadas, utilizando os elementos adequados para cada tipo de conteúdo. Isso contribui para uma melhor organização do site e uma experiência de navegação mais agradável para os usuários.
+
+A formatação de texto em uma página web difere da forma como é escrito no código-fonte HTML. Para realizar a formatação do conteúdo, é necessário inserir tags específicas nos objetos. O elemento <p> é utilizado para marcar um parágrafo no texto, inserindo automaticamente uma quebra de linha ao final quando a tag </p> é encontrada, indicando o fechamento do parágrafo.
+
+Sem a utilização desses elementos, qualquer texto em uma página HTML será escrito em sequência, mesmo que sejam inseridas quebras de linha no código-fonte pressionando a tecla enter. A tag <br/> cria uma quebra de linha no texto, forçando a continuação do texto na próxima linha. Já o elemento <pre> define que o texto será apresentado no navegador exatamente como está digitado no código-fonte HTML, respeitando os espaços em branco e as quebras de linha.
+
+Os títulos em HTML são definidos por seis níveis, representados pelos elementos <h1>, <h2>, <h3>, <h4>, <h5> e <h6>. Cada nível de título define o tamanho do texto, indo de um tamanho maior para um tamanho menor. Esses títulos são utilizados para destacar partes importantes do conteúdo e ajudar na organização da página.
+
+Ao utilizar essas marcações de parágrafos e títulos, é possível formatar o texto de uma página web de maneira adequada, tornando-a mais legível e organizada. É importante utilizar corretamente as tags e elementos HTML para garantir a correta exibição do conteúdo no navegador.
+
+Ao analisar o texto fornecido, podemos extrair algumas informações importantes sobre a criação de páginas web com HTML5. 
+
+Uma das informações relevantes é a existência de seis níveis de títulos que definem o tamanho do texto. Esses níveis são representados pelos elementos < h1>, <h2>, <h3>, <h4>, <h5> e <h6>. Cada um desses elementos formata o texto em um tamanho diferente, indo de maior para menor. Essa formatação dos títulos pode ser visualizada nas Figuras 5 e 6.
+
+Outra informação relevante é a possibilidade de aplicar estilos de texto, como negrito, itálico, excluído, inserido, marcado, sobrescrito e subscrito. Esses estilos permitem formatar o texto de acordo com a ênfase desejada, seja para destacar ou retirar a ênfase de partes do conteúdo. Essa formatação dos estilos de texto pode ser observada nas Figuras 7 e 8.
+
+É importante ressaltar que esses estilos de texto permitem que o destaque aplicado seja interpretado pelo navegador, independentemente do dispositivo utilizado e de sua configuração de tamanho de tela.
+
+Portanto, ao criar uma página web com HTML5, é possível utilizar os diferentes níveis de títulos para definir o tamanho do texto e aplicar estilos de texto para formatar o conteúdo de acordo com a ênfase desejada. Essas ferramentas são essenciais para garantir uma boa experiência de leitura e visualização da página em diferentes dispositivos.
+
+Os estilos de texto, como negrito, itálico, excluído, inserido, marcado, sobrescrito e subscrito, podem ser aplicados para formatar o texto em uma página web. Esses estilos permitem destacar ou retirar a ênfase de partes do conteúdo, de forma que o navegador consiga interpretar o destaque aplicado, independentemente do dispositivo e da configuração de tamanho de tela.
+
+Para aplicar esses estilos, é possível observar exemplos nas Figuras 7 e 8. Além disso, é possível conferir mais elementos de formatação de texto em HTML5 em um endereço específico.
+
+Em páginas HTML, os links ou hiperlinks são importantes para carregar arquivos externos e fazer direcionamentos para outras páginas ou para pontos dentro da própria página. Os links são utilizados para direcionar o usuário para algum lugar ou buscar alguma informação.
+
+Uma página HTML pode carregar arquivos CSS, conhecidos como cascading style sheets ou folhas de estilo em cascata. Esses arquivos são usados para definir as folhas de estilo das páginas, como cores, fontes, espaçamentos, entre outros. A definição do arquivo de folhas de estilo é feita através da tag <link>. O atributo rel="stylesheet" indica que o arquivo é do tipo folhas de estilo, enquanto o atributo href="estilo.css" representa o nome e o caminho do arquivo que será carregado na página. Caso o caminho não seja informado, o navegador interpretará que o arquivo está no mesmo diretório da página HTML.
+
+Um link é um atalho que pode ser colocado em um elemento, como uma palavra, frase ou imagem, e que direciona para algum objeto na web, como uma página, uma figura, um vídeo ou qualquer endereço de internet. É possível visualizar um exemplo na Figura 9.
+
+No desenvolvimento de páginas HTML, é essencial compreender e utilizar corretamente os elementos de formatação de texto. Um dos elementos mais importantes são os links ou hiperlinks, que permitem carregar arquivos externos e direcionar para outras páginas ou pontos dentro da própria página. Os links são utilizados para buscar informações ou direcionar o usuário para algum lugar específico.
+
+Outro elemento relevante é a utilização de folhas de estilo em cascata, conhecidas como CSS (cascading style sheets). As folhas de estilo são responsáveis por definir a aparência das páginas HTML, como cores, fontes e espaçamentos. Para carregar um arquivo CSS em uma página HTML, utiliza-se a tag <link>, onde o atributo rel="stylesheet" indica que o arquivo é uma folha de estilo e o atributo href="estilo.css" representa o nome e o caminho do arquivo a ser carregado. Caso o caminho não seja informado, o navegador interpretará que o arquivo está no mesmo diretório da página HTML.
+
+Os links podem ser inseridos em elementos como palavras, frases ou imagens, e direcionam o usuário para algum objeto na web, como uma página, uma figura, um vídeo ou qualquer endereço de internet. Para criar um link, utiliza-se a tag <a>, onde o atributo href define o endereço que será carregado quando o link for clicado. É possível utilizar caminhos com URL completa para links externos ao site, como o site do Governo Federal do Brasil, ou caminhos relativos para links internos ao site, como uma página que exibe a lista de clientes cadastrados.
+
+Além disso, os links definidos pela tag <a> possuem atributos opcionais que podem definir seu comportamento ou incluir informações adicionais. Alguns dos atributos mais conhecidos são title, que exibe uma mensagem como dica quando o mouse é posicionado sobre o link, e download, que permite o download de um arquivo quando o link é clicado. Outros atributos importantes são target, que define onde o link será aberto (na mesma janela, em uma nova janela, etc.), e mailto, que permite criar um link para enviar um e-mail.
+
+Portanto, ao desenvolver páginas HTML, é fundamental compreender e utilizar corretamente os elementos de formatação de texto, como os links e as folhas de estilo em cascata. Esses elementos são essenciais para direcionar o usuário para outras páginas ou objetos na web, além de definir a aparência visual das páginas.
+
+Ao criar páginas web com HTML5, é importante entender como utilizar os elementos de link (<a>) de forma adequada. A tag <a> é utilizada para criar links em uma página, permitindo que os usuários cliquem neles e sejam direcionados para outras páginas ou arquivos.
+
+Para definir o endereço que será carregado quando o link for clicado, utiliza-se o atributo href. É possível utilizar tanto um caminho absoluto, com a URL completa, para links externos ao site, como também um caminho relativo, quando o link se refere a uma página dentro do próprio site.
+
+Além do atributo href, os links podem ter outros atributos opcionais. O atributo title, por exemplo, exibe uma mensagem como dica quando o usuário posiciona o mouse sobre o link. Isso pode ser útil para fornecer informações adicionais sobre o conteúdo do link.
+
+Outro atributo importante é o download, que força o download automático de um arquivo referenciado pelo link. É possível sugerir um novo nome para o arquivo, diferente do seu nome original, e permitir que o usuário o altere durante o download.
+
+O atributo target define se a página referenciada pelo link será aberta na mesma aba ou em uma nova aba do navegador. O valor "_self" indica que a página será aberta na mesma aba, enquanto o valor "_blank" indica que será aberta em uma nova aba.
+
+Também é possível criar links para abrir programas de e-mail com campos já preenchidos, como o endereço do destinatário e o assunto da mensagem. No entanto, é importante ressaltar que esse recurso só funcionará se o usuário estiver utilizando programas clientes de e-mail, como o Outlook.
+
+Por fim, as âncoras são utilizadas para direcionar o usuário para um local específico dentro da mesma página HTML. Isso é útil quando a página possui muitos links no topo e um conteúdo extenso abaixo. Com as âncoras, é possível acessar diretamente o conteúdo desejado, sem precisar passar por partes que não são relevantes no momento.
+
+Em resumo, ao criar páginas web com HTML5, é importante utilizar corretamente os elementos de link (<a>) e seus atributos para garantir uma boa experiência de navegação para os usuários.
+
+No texto fornecido, são abordados diferentes aspectos relacionados à criação de páginas web utilizando HTML5. Vou destacar as informações mais relevantes para responder às dúvidas sobre o assunto.
+
+Primeiramente, é mencionado o atributo "download" que força o download automático de um arquivo referenciado em um link. Apesar de forçar o download, o usuário tem a opção de trocar o nome do arquivo no momento do download. Além disso, é possível sugerir um novo nome para o arquivo, que pode ser diferente do seu nome original.
+
+Outro atributo importante é o "target", que define se uma página HTML será aberta na mesma aba ou em uma nova aba do navegador. O atributo "_self" indica que a página será aberta na mesma aba ou janela, enquanto o atributo "_blank" estabelece que a página será aberta em uma nova aba ou janela.
+
+Também é mencionada a possibilidade de criar um link para abrir programas de e-mail com campos já preenchidos, como o endereço do destinatário e o assunto. No entanto, é importante ressaltar que esse comando só terá efeito se o usuário estiver utilizando programas clientes de e-mail, como o Outlook.
+
+O texto também aborda o uso de âncoras, que são utilizadas para direcionar o usuário para um local específico dentro de uma mesma página HTML. Isso é útil quando uma página possui vários links no topo e um conteúdo extenso abaixo. Com as âncoras, é possível acessar diretamente o conteúdo desejado, sem precisar passar por conteúdos que não são relevantes no momento.
+
+Para criar uma âncora, é necessário utilizar dois comandos em uma página HTML: o primeiro é o posicionamento de um apelido em um local desejado do documento, por meio da tag "<a name>"; e o segundo comando define um atalho para o apelido criado, representado pela tag "<a href>". Dessa forma, ao clicar no atalho, o usuário será direcionado automaticamente para o local desejado na página.
+
+Por fim, o texto menciona a criação de listas e tabelas em uma página web utilizando HTML5. As listas são conjuntos de elementos dispostos com marcadores, facilitando a visualização de itens. Já as tabelas permitem organizar dados em colunas e linhas, proporcionando uma apresentação estruturada das informações.
+
+Em resumo, o texto aborda diferentes aspectos relacionados à criação de páginas web com HTML5, como o uso de atributos para download de arquivos, abertura de páginas em novas abas, criação de links para programas de e-mail, utilização de âncoras para direcionamento dentro da página e a criação de listas e tabelas para organizar informações.
+
+Uma página HTML pode conter várias âncoras, que são utilizadas para direcionar o usuário para diferentes partes do documento. Essas âncoras podem ser posicionadas em qualquer lugar da página e permitem que o usuário retorne ao topo da página após ler um determinado conteúdo. Para criar uma âncora, é necessário utilizar dois comandos: o primeiro é a tag <a name>, que define um apelido para o local desejado do documento, e o segundo é a tag <a href>, que cria um atalho para o apelido criado.
+
+Ao clicar no atalho, o usuário será automaticamente direcionado para o local da âncora correspondente, sem precisar percorrer todo o conteúdo anterior. Por exemplo, na Figura 10, ao clicar no atalho da linha 4, o usuário será direcionado para os poemas de Cecília Meireles, sem precisar passar pelos poemas de Érico Veríssimo e outros autores. Isso ocorre porque o atalho aponta para o apelido "cecilia_meireles", indicado na linha 11. Além disso, é possível criar um atalho para voltar ao topo da página rapidamente, como mostrado na linha 14.
+
+Outro elemento importante na criação de páginas web com HTML5 são as listas. Existem três tipos de listas definidos na especificação HTML5: listas não ordenadas, listas ordenadas e listas de definição. As listas não ordenadas são utilizadas para representar uma relação de itens com o mesmo grau de importância, ou seja, não há uma ordem de prioridade entre eles. Cada item da lista é indicado pela tag <li> e a lista em si é definida pela tag <ul>. Na Figura 11, é possível observar um exemplo de lista não ordenada.
+
+As listas são úteis para organizar informações de forma visualmente agradável e facilitar a leitura e compreensão do conteúdo. Elas podem ser aninhadas, ou seja, uma lista pode conter sublistas, inclusive com tipos diferentes. Por exemplo, é possível ter uma lista não ordenada dentro de uma lista ordenada. A utilização adequada das listas contribui para uma melhor experiência do usuário ao navegar em uma página web.
+
+Em resumo, as âncoras e as listas são elementos importantes na criação de páginas web com HTML5. As âncoras permitem direcionar o usuário para diferentes partes do documento, facilitando a navegação e a leitura do conteúdo. Já as listas são utilizadas para organizar informações de forma visualmente agradável e facilitar a compreensão do conteúdo. Ao utilizar corretamente esses elementos, é possível criar páginas web mais acessíveis e amigáveis para os usuários.
+
+Existem três tipos de listas definidos na especificação HTML5: listas não ordenadas, listas ordenadas e listas de definição. A lista não ordenada é utilizada para representar uma relação de itens com o mesmo grau de importância, ou seja, não há uma ordem de prioridade entre eles. Os marcadores dos itens dessa lista são iguais para todos os elementos. A tag utilizada para criar uma lista não ordenada é <ul>, e cada item da lista é indicado pela tag <li>.
+
+Já a lista ordenada é utilizada para representar uma relação de itens identificados por uma ordem numérica. Nesse caso, há uma relação de prioridade entre os itens, pois os marcadores estão dispostos em uma sequência. A tag utilizada para criar uma lista ordenada é <ol>, e cada item da lista também é indicado pela tag <li>.
+
+Por fim, a lista de definição é utilizada para representar uma relação de itens ligados a subitens, como um glossário. Nessa lista, não há marcadores visíveis. A tag utilizada para criar uma lista de definição é <dl>, cada item da lista é indicado pela tag <dt>, e seus respectivos subitens são representados pela tag <dd>.
+
+É importante ressaltar que todas essas listas podem ser aninhadas em sublistas, inclusive com tipos diferentes. Isso significa que é possível criar uma lista dentro de outra lista, utilizando diferentes tipos de listas (não ordenadas, ordenadas ou de definição) para cada nível de aninhamento.
+
+Ao utilizar essas tags corretamente, é possível criar listas de forma estruturada e organizada em páginas web, facilitando a leitura e compreensão do conteúdo pelos usuários.
+
+Uma lista ordenada é uma relação de itens que são identificados por uma ordem numérica. Isso significa que há uma relação de prioridade, já que os marcadores dos itens estão dispostos em uma sequência. A tag utilizada para criar uma lista ordenada é <ol>, e cada item da lista é indicado pela tag <li>. Nas Figuras 13 e 14 do texto, é possível visualizar exemplos de uma lista ordenada e como ela é exibida no navegador.
+
+Já uma lista de definição representa uma relação de itens ligados a subitens, sem apresentar qualquer marcador. É como um glossário, onde cada item é indicado pela tag <dt> e seus respectivos subitens são representados pela tag <dd>. A tag utilizada para criar uma lista de definição é <dl>. Nas Figuras 15 e 16 do texto, são apresentados exemplos de uma lista de definição e como ela é exibida no navegador.
+
+As tabelas são utilizadas para exibir um conteúdo tabulado em uma página HTML. Elas formatam e apresentam os elementos em linhas e colunas. Para criar uma tabela, é necessário utilizar a tag <table>, seguida das tags que indicam a formação de linha (<tr>) e coluna (<th> e <td>). A tag <th> é usada para as colunas do cabeçalho, enquanto a tag <td> é utilizada para as demais colunas da tabela. Além disso, existem as tags agrupadoras que definem áreas de cabeçalho (<thead>), rodapé (<tfoot>) e corpo da tabela (<tbody>). Essas tags permitem organizar e separar as áreas da tabela que podem ser apresentadas de modos diferentes.
+
+Em resumo, as listas ordenadas são utilizadas para representar uma relação de itens com uma ordem numérica, as listas de definição são usadas para relacionar itens a subitens sem marcadores, e as tabelas são utilizadas para exibir conteúdo tabulado em linhas e colunas.
+
+As tabelas são elementos utilizados em páginas HTML para exibir conteúdos tabulados, ou seja, organizados em linhas e colunas. Para criar uma tabela, é necessário utilizar a tag <table>, seguida das tags <tr> para indicar a formação de linhas e <th> e <td> para indicar as colunas. A tag <th> é utilizada para as colunas do cabeçalho da tabela, enquanto a tag <td> é utilizada para as demais colunas.
+
+Além disso, é possível utilizar tags agrupadoras para definir áreas específicas da tabela. A tag <thead> é utilizada para o cabeçalho da tabela, a tag <tfoot> é utilizada para o rodapé e a tag <tbody> é utilizada para o corpo da tabela. Essas tags permitem organizar e separar as áreas da tabela, possibilitando diferentes estilos de apresentação de acordo com as folhas de estilo utilizadas. Além disso, os navegadores também podem repetir os cabeçalhos quando são impressas tabelas com muitas páginas.
+
+A criação de tabelas em HTML5 pode ser ilustrada pelos exemplos apresentados nas Figuras 17 e 18. A Figura 17 mostra um exemplo de tabela em HTML5, enquanto a Figura 18 mostra como essa tabela é apresentada no navegador.
+
+Portanto, as tabelas são elementos importantes para a criação de páginas web com HTML5, permitindo a organização e apresentação de conteúdos tabulados de forma clara e estruturada.
+
+As tabelas são elementos importantes na criação de páginas web com HTML5. Elas permitem organizar informações de forma estruturada, com linhas e colunas, além de possibilitar a inclusão de elementos como cabeçalho, rodapé e corpo. É interessante notar que os elementos da estrutura da tabela não precisam estar dispostos em ordem no código-fonte, pois o navegador faz a interpretação correta e os apresenta de forma adequada.
+
+Um atributo opcional que pode ser utilizado é o "border", que define a largura da borda da tabela. Se esse atributo for omitido, a tabela será exibida sem bordas, mantendo apenas a formatação do posicionamento dos elementos. Além disso, existem outros dois atributos que podem ser inseridos nas tags <tr> e <td | th>: "rowspan" e "colspan". Esses atributos permitem mesclar linhas e colunas, respectivamente, facilitando a criação de tabelas mais complexas.
+
+É importante ressaltar que as folhas de estilo utilizadas também podem influenciar a apresentação das tabelas. Por exemplo, é possível definir estilos para repetir os cabeçalhos quando são impressas tabelas com muitas páginas.
+
+No exemplo apresentado, é ilustrada uma tabela de preços fictícios de veículos. Nesse caso, são utilizados os principais elementos de uma tabela, como linhas e colunas, além dos elementos de estrutura, como cabeçalho, rodapé e corpo. É interessante observar que, mesmo com a ordem dos elementos da estrutura da tabela não estando disposta corretamente no código-fonte, o navegador interpreta e apresenta a tabela de forma adequada.
+
+Para a criação de páginas web com HTML5, existem diversos materiais de referência disponíveis, como livros e sites. Alguns exemplos são: "HTML5 e CSS3: com farinha e pimenta" de D. Eis e E. Ferreira, "HTML5: embarque imediato" de F. Flatschart, "Use a cabeça! Programação em HTML5" de E. Freeman e E. Robson, "Comandos e tags HTML5" de R. Ribeiro e "Fundamentos de HTML5 e CSS3" de M. S. Silva. Esses materiais podem ser consultados para aprofundar o conhecimento sobre a criação de páginas web com HTML5.
+
+No exemplo apresentado, temos uma tabela fictícia de preços de veículos, que ilustra os principais elementos de uma tabela, como linhas e colunas, e os elementos de estrutura, como cabeçalho, rodapé e corpo. É importante notar que os elementos da estrutura da tabela não precisam estar dispostos em ordem no código-fonte, pois no exemplo fornecido, os itens do rodapé estão inseridos antes do corpo da tabela. No entanto, o navegador interpreta corretamente os elementos da tabela e os apresenta de forma adequada.
+
+A tabela possui um atributo opcional chamado "border", que define a largura da borda da tabela. Se esse atributo for omitido, a tabela será exibida sem bordas, mantendo apenas a formatação do posicionamento dos elementos. Além disso, existem outros dois atributos que podem ser inseridos nas tags <tr> e <td | th>: "rowspan" e "colspan", que permitem mesclar linhas e colunas, respectivamente.
+
+Essas informações são relevantes para quem está aprendendo a criar páginas web com HTML5, pois a criação de tabelas é uma das habilidades essenciais nessa linguagem de marcação. É importante compreender a estrutura e os elementos de uma tabela, bem como os atributos que podem ser utilizados para personalizá-la.
+
+Para aprofundar o conhecimento sobre HTML5 e CSS3, existem diversas obras disponíveis, como "HTML5 e CSS3: com farinha e pimenta" de D. Eis e E. Ferreira, "HTML5: embarque imediato" de F. Flatschart, "Use a cabeça! Programação em HTML5" de E. Freeman e E. Robson, "Comandos e tags HTML5" de R. Ribeiro e "Fundamentos de HTML5 e CSS3" de M. S. Silva. Esses livros podem ser encontrados em bibliotecas virtuais e são úteis para aprofundar o conhecimento sobre o assunto.
+
+Em resumo, o exemplo apresentado ilustra os elementos e a estrutura de uma tabela em HTML5, mostrando que os elementos da estrutura não precisam estar dispostos em ordem no código-fonte. Além disso, são mencionados atributos opcionais que podem ser utilizados para personalizar a tabela. Para aprofundar o conhecimento sobre HTML5 e CSS3, existem diversas obras disponíveis que podem ser consultadas.
+

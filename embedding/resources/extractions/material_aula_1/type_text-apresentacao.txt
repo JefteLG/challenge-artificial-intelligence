@@ -1,0 +1,10 @@
+Os sistemas desenvolvidos para a plataforma web utilizam a linguagem HTML como base para a exibição de conteúdo, tanto em páginas estáticas como dinâmicas. Com o HTML5, é possível criar páginas web com recursos avançados, permitindo a apresentação de dados de forma mais eficiente. 
+
+Uma das principais vantagens do HTML5 é a possibilidade de utilizar novas marcações que permitem o uso de semântica e acessibilidade. Isso significa que as páginas criadas com HTML5 são mais amigáveis para motores de busca automáticos, facilitando a indexação e a pesquisa de conteúdo. Além disso, essas páginas também são mais acessíveis para pessoas com deficiência visual e auditiva, pois podem ser interpretadas por dispositivos próprios para esses fins.
+
+Nesta Unidade de Aprendizagem, você terá a oportunidade de estudar a estrutura de páginas web, aprender a formatar texto em documentos hipertexto e a criar links, listas e tabelas utilizando o HTML5. Esses conhecimentos são fundamentais para o desenvolvimento de páginas web modernas e funcionais.
+
+Ao final desta Unidade de Aprendizagem, espera-se que você tenha adquirido os seguintes aprendizados: a capacidade de definir a estrutura de uma página web utilizando o HTML5, a habilidade de aplicar formatação de texto em uma página web utilizando o HTML5 e a competência para desenvolver listas e tabelas em uma página web utilizando o HTML5.
+
+Portanto, aproveite essa oportunidade de aprendizado e bons estudos! O conhecimento adquirido nesta Unidade de Aprendizagem será essencial para o seu desenvolvimento como profissional na área de desenvolvimento web.
+

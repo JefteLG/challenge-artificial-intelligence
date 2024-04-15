@@ -1,0 +1,40 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  case_mais_educacao
+
+  Sample SAM Template for case_mais_educacao
+
+# More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
+Globals:
+  Function:
+    Timeout: 300
+    Layers:
+      - !Ref AppLayer
+
+Resources:
+  AdaptiveFAQFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: src/
+      Handler: app.lambda_handler
+      Runtime: python3.11
+      Policies:
+        - Statement:
+          - Effect: Allow
+            Action:
+              - logs:CreateLogGroup
+              - logs:CreateLogStream
+              - logs:PutLogEvents
+            Resource: '*'
+      Architectures:
+        - x86_64
+
+  AppLayer:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      Description: Dependencies for python functions
+      ContentUri: dependencies/layer/python
+      RetentionPolicy: Delete
+    Metadata:
+      BuildMethod: python3.11

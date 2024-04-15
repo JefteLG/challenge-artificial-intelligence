@@ -1,0 +1,14 @@
+Neste texto, o professor da unidade de aprendizagem "Criação de páginas web com HTML cinco" fala sobre formatação de texto e âncoras em HTML. A especificação HTML cinco disponibiliza uma série de elementos para formatar textos e criar âncoras em páginas web. Para isso, devemos usar tags específicas que permitem formatar os elementos visando o equilíbrio do código com a semântica do HTML cinco.
+
+No exemplo apresentado, é criada uma página HTML que apresenta uma lista de músicas de Roberto Carlos. Nessa página, é montado um menu de navegação com links para cada música. O objetivo desses links é posicionar a página no início de cada música, sem a necessidade de percorrer todo o documento.
+
+A estrutura da página é apresentada, começando com a instrução "Doc type HTML" que informa ao navegador que estamos trabalhando com a versão cinco do HTML. O título da página é "Roberto Carlos é o nosso rei" e é exibido na barra de título do navegador. O título principal da página é "Músicas de Roberto Carlos" e é destacado com a tag "h2".
+
+A página é dividida em seções, sendo que uma delas é chamada de "Arco" e é onde são colocadas as músicas de Roberto Carlos. Cada música possui um título, destacado com a tag "h3". Para apresentar as músicas, é utilizada a tag "pre", que define a formatação do texto, respeitando as quebras de linha e linhas em branco.
+
+Ao final de cada música, é colocado um atalho para o topo da página. Esse atalho direciona a página para o início, onde temos o indicador "topo" no título "Músicas de Roberto Carlos". Dessa forma, é possível navegar entre as músicas e voltar para o início da página.
+
+Os links de cada música são feitos com âncoras, ou seja, são endereços apontados para dentro da própria página. No exemplo dado, o link aponta para o início da música "Como é grande o meu amor por você", utilizando o identificador "como é grande".
+
+Essa dica do professor tratou sobre formatação de texto e âncoras em HTML. Espero que você tenha aproveitado essa dica e bons estudos!
+

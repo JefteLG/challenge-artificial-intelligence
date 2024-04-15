@@ -1,0 +1,10 @@
+Questão 1: Pergunta: Sobre a instrução <!DOCTYPE html> do HTML5, marque a alternativa correta. Resposta: Indica que o documento hipertexto foi escrito na versão 5 do HTML. Explicação: No HTML5, a instrução <!DOCTYPE html> indica que o documento hipertexto foi escrito na versão 5. Nessa versão do HTML não é necessário informar qualquer número, bastando informar a instrução conforme citada.
+
+Questão 2: Pergunta: Indique a alternativa correta em relação ao elemento <section> do HTML5. Resposta: Representa uma ou mais áreas de uma página HTML5. Explicação: O elemento <section> define uma ou mais áreas de um documento HTML5. Essas áreas podem conter outros elementos, como <article>, <nav> e <aside>, e auxiliam na organização da estrutura de uma página web.
+
+Questão 3: Pergunta: Selecione a alternativa correta em relação à formatação de parágrafos com a tag <pre> em HTML5. Resposta: Exibe o texto formatado tal como foi digitado no código-fonte. Explicação: Apresenta no navegador a mesma formatação que foi aplicada no código-fonte, respeitando espaços em branco e quebras de linha.
+
+Questão 4: Pergunta: Marque a alternativa correta sobre âncoras em HTML5. Resposta: Realizam o direcionamento para um ponto da mesma página web. Explicação: Âncoras realizam o direcionamento para determinados locais dentro da mesma página web, como atalhos para determinados conteúdos que estão em pontos diferentes.
+
+Questão 5: Pergunta: Em relação às listas do HTML5, selecione a alternativa correta. Resposta: Uma lista pode ser aninhada com outras sublistas, inclusive com tipos diferentes de lista. Explicação: Existem três tipos de lista: as ordenadas, as não ordenadas e as de definição, que não aplicam marcadores aos itens. Qualquer tipo de lista pode apresentar itens duplicados e nenhum tipo aplica classificação aos itens, sendo que todos os tipos de listas podem aninhar subitens, inclusive com tipos diferentes de lista.
+

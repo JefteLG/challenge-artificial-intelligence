@@ -1,0 +1,17 @@
+langchain==0.1.14
+python-dotenv==1.0.0
+virtualenv==20.0.17 # Remover para criar as layers AWS
+PyYAML==6.0.1
+Unidecode==1.3.8
+python-dateutil==2.8.2
+pypdf==4.1.0
+jsonschema==4.17.3
+langchain-openai==0.1.1
+pinecone-client==3.2.2
+jq==1.7.0
+
+# Criar ambiente virtual:
+# virtualenv -p /usr/bin/python3.11 env_aurora_mais_educa
+
+# Ativar ambiente virtual:
+# source env_aurora_mais_educa/bin/activate

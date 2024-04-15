@@ -1,0 +1,34 @@
+{
+    "user_123": {
+        "perguntas_respostas": [
+            {
+                "pergunta": "O que é um parágrafo em HTML?",
+                "resposta_gpt": "Um parágrafo HTML é uma unidade de texto...",
+                "timestamp": "2024-04-03T19:04:35.872860+00:00"
+            }
+        ]
+    },
+    "user_456": {
+        "perguntas_respostas": [
+            {
+                "pergunta": "Qual é a importância do CSS?",
+                "resposta_gpt": "O CSS é importante para o design web porque...",
+                "timestamp": "2024-04-03T19:04:57.176808+00:00"
+            },
+            {
+                "pergunta": "Como usar loops em Python?",
+                "resposta_gpt": "Em Python, você pode usar loops for e while para...",
+                "timestamp": "2024-04-03T19:05:07.740307+00:00"
+            }
+        ]
+    },
+    "user_789": {
+        "perguntas_respostas": [
+            {
+                "pergunta": "O que é uma função em programação?",
+                "resposta_gpt": "Uma função em programação é um bloco de código...",
+                "timestamp": "2024-04-03T19:05:18.216317+00:00"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+Um layout de página da web é composto por diferentes elementos que desempenham funções específicas. A imagem fornecida apresenta um diagrama que explica esses elementos de forma clara e visual. 
+
+O primeiro elemento mencionado é o "HEADER DA PÁGINA", que indica a presença de um cabeçalho no topo da página. Esse cabeçalho geralmente contém informações relevantes, como dados da organização e links gerais, como a página inicial e o mapa do site. O objetivo do cabeçalho é fornecer ao usuário acesso rápido a informações importantes e facilitar a navegação pelo site.
+
+Outro elemento destacado é o "NAV", que se refere a uma área definida para os principais atalhos da página. Essa área geralmente corresponde à barra de navegação, que permite ao usuário acessar diferentes seções do site de forma rápida e intuitiva. A barra de navegação é essencial para facilitar a experiência do usuário e garantir que ele encontre facilmente o que procura.
+
+Por fim, temos o "FOOTER DA PÁGINA", que se refere ao rodapé da página. O rodapé é o local onde são apresentadas informações adicionais, como dados de contato da organização ou outras informações relevantes. O objetivo do rodapé é fornecer ao usuário informações complementares e facilitar o contato com a organização, caso necessário.
+
+A imagem também apresenta linhas que conectam os termos aos respectivos elementos no exemplo de layout à direita. Essas linhas ilustram onde cada um dos termos seria aplicado no contexto de um website real, ajudando a compreender melhor a disposição dos elementos na página.
+
+Em resumo, o layout de uma página da web é composto por elementos como o cabeçalho, a barra de navegação e o rodapé. Cada um desses elementos desempenha uma função específica, como fornecer informações importantes, facilitar a navegação e apresentar informações adicionais. A compreensão desses elementos é fundamental para criar uma experiência de usuário eficiente e intuitiva em um site.
+
